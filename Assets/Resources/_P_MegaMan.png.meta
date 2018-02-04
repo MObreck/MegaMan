@@ -1,0 +1,2097 @@
+fileFormatVersion: 2
+guid: c2615a4e2be8f574a8288979d79269a8
+timeCreated: 1463216162
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Image2_0
+    21300002: Image2_1
+    21300004: Image2_2
+    21300006: Image2_3
+    21300008: Image2_4
+    21300010: Image2_5
+    21300012: Image2_6
+    21300014: Image2_7
+    21300016: Image2_8
+    21300018: Image2_9
+    21300020: Image2_10
+    21300022: Image2_11
+    21300024: Image2_12
+    21300026: Image2_13
+    21300028: Image2_14
+    21300030: Image2_15
+    21300032: Image2_16
+    21300034: Image2_17
+    21300036: Image2_18
+    21300038: Image2_19
+    21300040: Image2_20
+    21300042: Image2_21
+    21300044: Image2_22
+    21300046: Image2_23
+    21300048: Image2_24
+    21300050: Image2_25
+    21300052: Image2_26
+    21300054: Image2_27
+    21300056: Image2_28
+    21300058: Image2_29
+    21300060: Image2_30
+    21300062: Image2_31
+    21300064: Image2_32
+    21300066: Image2_33
+    21300068: Image2_34
+    21300070: Image2_35
+    21300072: Image2_36
+    21300074: Image2_37
+    21300076: Image2_38
+    21300078: Image2_39
+    21300080: Image2_40
+    21300082: Image2_41
+    21300084: Image2_42
+    21300086: Image2_43
+    21300088: Image2_44
+    21300090: Image2_45
+    21300092: Image2_46
+    21300094: Image2_47
+    21300096: Image2_48
+    21300098: Image2_49
+    21300100: Image2_50
+    21300102: Image2_51
+    21300104: Image2_52
+    21300106: Image2_53
+    21300108: Image2_54
+    21300110: Image2_55
+    21300112: Image2_56
+    21300114: Image2_57
+    21300116: Image2_58
+    21300118: Image2_59
+    21300120: Image2_60
+    21300122: Image2_61
+    21300124: Image2_62
+    21300126: Image2_63
+    21300128: Image2_64
+    21300130: Image2_65
+    21300132: Image2_66
+    21300134: Image2_67
+    21300136: Image2_68
+    21300138: Image2_69
+    21300140: Image2_70
+    21300142: Image2_71
+    21300144: Image2_72
+    21300146: Image2_73
+    21300148: Image2_74
+    21300150: Image2_75
+    21300152: Image2_76
+    21300154: Image2_77
+    21300156: Image2_78
+    21300158: Image2_79
+    21300160: Image2_80
+    21300162: Image2_81
+    21300164: Image2_82
+    21300166: Image2_83
+    21300168: Image2_84
+    21300170: Image2_85
+    21300172: Image2_86
+    21300174: Image2_87
+    21300176: Image2_88
+    21300178: Image2_89
+    21300180: Image2_90
+    21300182: Image2_91
+    21300184: Image2_92
+    21300186: Image2_93
+    21300188: Image2_94
+    21300190: Image2_95
+    21300192: Image2_96
+    21300194: Image2_97
+    21300196: Image2_98
+    21300198: Image2_99
+    21300200: Image2_100
+    21300202: Image2_101
+    21300204: Image2_102
+    21300206: Image2_103
+    21300208: Image2_104
+    21300210: Image2_105
+    21300212: Image2_106
+    21300214: Image2_107
+    21300216: Image2_108
+    21300218: Image2_109
+    21300220: Image2_110
+    21300222: Image2_111
+    21300224: Image2_112
+    21300226: Image2_113
+    21300228: Image2_114
+    21300230: Image2_115
+    21300232: Image2_116
+    21300234: Image2_117
+    21300236: Image2_118
+    21300238: Image2_119
+    21300240: _P_MegaMan_0
+    21300242: _P_MegaMan_1
+    21300244: _P_MegaMan_2
+    21300246: _P_MegaMan_3
+    21300248: _P_MegaMan_4
+    21300250: _P_MegaMan_5
+    21300252: _P_MegaMan_6
+    21300254: _P_MegaMan_7
+    21300256: _P_MegaMan_8
+    21300258: _P_MegaMan_9
+    21300260: _P_MegaMan_10
+    21300262: _P_MegaMan_11
+    21300264: _P_MegaMan_12
+    21300266: _P_MegaMan_13
+    21300268: _P_MegaMan_14
+    21300270: _P_MegaMan_15
+    21300272: _P_MegaMan_16
+    21300274: _P_MegaMan_17
+    21300276: _P_MegaMan_18
+    21300278: _P_MegaMan_19
+    21300280: _P_MegaMan_20
+    21300282: _P_MegaMan_21
+    21300284: _P_MegaMan_22
+    21300286: _P_MegaMan_23
+    21300288: _P_MegaMan_24
+    21300290: _P_MegaMan_25
+    21300292: _P_MegaMan_26
+    21300294: _P_MegaMan_27
+    21300296: _P_MegaMan_28
+    21300298: _P_MegaMan_29
+    21300300: _P_MegaMan_30
+    21300302: _P_MegaMan_31
+    21300304: _P_MegaMan_32
+    21300306: _P_MegaMan_33
+    21300308: _P_MegaMan_34
+    21300310: _P_MegaMan_35
+    21300312: _P_MegaMan_36
+    21300314: _P_MegaMan_37
+    21300316: _P_MegaMan_38
+    21300318: _P_MegaMan_39
+    21300320: _P_MegaMan_40
+    21300322: _P_MegaMan_41
+    21300324: _P_MegaMan_42
+    21300326: _P_MegaMan_43
+    21300328: _P_MegaMan_44
+    21300330: _P_MegaMan_45
+    21300332: _P_MegaMan_46
+    21300334: _P_MegaMan_47
+    21300336: _P_MegaMan_48
+    21300338: _P_MegaMan_49
+    21300340: _P_MegaMan_50
+    21300342: _P_MegaMan_51
+    21300344: _P_MegaMan_52
+    21300346: _P_MegaMan_53
+    21300348: _P_MegaMan_54
+    21300350: _P_MegaMan_55
+    21300352: _P_MegaMan_56
+    21300354: _P_MegaMan_57
+    21300356: _P_MegaMan_58
+    21300358: _P_MegaMan_59
+    21300360: _P_MegaMan_60
+    21300362: _P_MegaMan_61
+    21300364: _P_MegaMan_62
+    21300366: _P_MegaMan_63
+    21300368: _P_MegaMan_64
+    21300370: _P_MegaMan_65
+    21300372: _P_MegaMan_66
+    21300374: _P_MegaMan_67
+    21300376: _P_MegaMan_68
+    21300378: _P_MegaMan_69
+    21300380: _P_MegaMan_70
+    21300382: _P_MegaMan_71
+    21300384: _P_MegaMan_72
+    21300386: _P_MegaMan_73
+    21300388: _P_MegaMan_74
+    21300390: _P_MegaMan_75
+    21300392: _P_MegaMan_76
+    21300394: _P_MegaMan_77
+    21300396: _P_MegaMan_78
+    21300398: _P_MegaMan_79
+    21300400: _P_MegaMan_80
+    21300402: _P_MegaMan_81
+    21300404: _P_MegaMan_82
+    21300406: _P_MegaMan_83
+    21300408: _P_MegaMan_84
+    21300410: _P_MegaMan_85
+    21300412: _P_MegaMan_86
+    21300414: _P_MegaMan_87
+    21300416: _P_MegaMan_88
+    21300418: _P_MegaMan_89
+    21300420: _P_MegaMan_90
+    21300422: _P_MegaMan_91
+    21300424: _P_MegaMan_92
+    21300426: _P_MegaMan_93
+    21300428: _P_MegaMan_94
+    21300430: _P_MegaMan_95
+    21300432: _P_MegaMan_96
+    21300434: _P_MegaMan_97
+    21300436: _P_MegaMan_98
+    21300438: _P_MegaMan_99
+    21300440: _P_MegaMan_100
+    21300442: _P_MegaMan_101
+    21300444: _P_MegaMan_102
+    21300446: _P_MegaMan_103
+    21300448: _P_MegaMan_104
+    21300450: _P_MegaMan_105
+    21300452: _P_MegaMan_106
+    21300454: _P_MegaMan_107
+    21300456: _P_MegaMan_108
+    21300458: _P_MegaMan_109
+    21300460: _P_MegaMan_110
+    21300462: _P_MegaMan_111
+    21300464: _P_MegaMan_112
+    21300466: _P_MegaMan_113
+    21300468: _P_MegaMan_114
+    21300470: _P_MegaMan_115
+    21300472: _P_MegaMan_116
+    21300474: _P_MegaMan_117
+    21300476: _P_MegaMan_118
+    21300478: _P_MegaMan_119
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: _P_MegaMan_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 379
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 379
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_2
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 379
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_3
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 379
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_4
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 379
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_5
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 379
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_6
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 379
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_7
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 379
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_8
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 379
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_9
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 379
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_10
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 379
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_11
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 379
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 337
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_13
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 337
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_14
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 337
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_15
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 337
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_16
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 337
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_17
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 337
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_18
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 337
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_19
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 337
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_20
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 337
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_21
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 337
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_22
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 337
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_23
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 337
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 295
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_25
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 295
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_26
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 295
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_27
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 295
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_28
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 295
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_29
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 295
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_30
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 295
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_31
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 295
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_32
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 295
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_33
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 295
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_34
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 295
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_35
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 295
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_36
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 253
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_37
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 253
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_38
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 253
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_39
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 253
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_40
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 253
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_41
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 253
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_42
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 253
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_43
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 253
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_44
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 253
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_45
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 253
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_46
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 253
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_47
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 253
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_48
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 211
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_49
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 211
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_50
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 211
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_51
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 211
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_52
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 211
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_53
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 211
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_54
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 211
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_55
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 211
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_56
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 211
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_57
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 211
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_58
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 211
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_59
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 211
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_60
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 169
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_61
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 169
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_62
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 169
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_63
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 169
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_64
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 169
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_65
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 169
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_66
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 169
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_67
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 169
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_68
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 169
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_69
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 169
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_70
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 169
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_71
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 169
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_72
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 127
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_73
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 127
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_74
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 127
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_75
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 127
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_76
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 127
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_77
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 127
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_78
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 127
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_79
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 127
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_80
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 127
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_81
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 127
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_82
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 127
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_83
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 127
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_84
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 85
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_85
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 85
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_86
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 85
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_87
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 85
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_88
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 85
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_89
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 85
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_90
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 85
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_91
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 85
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_92
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 85
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_93
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 85
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_94
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 85
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_95
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 85
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_96
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 43
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_97
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 43
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_98
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 43
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_99
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 43
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_100
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 43
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_101
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 43
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_102
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 43
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_103
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 43
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_104
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 43
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_105
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 43
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_106
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 43
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_107
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 43
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_108
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_109
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_110
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_111
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_112
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_113
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_114
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_115
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_116
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_117
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_118
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: _P_MegaMan_119
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
